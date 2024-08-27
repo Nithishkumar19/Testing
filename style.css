@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+.video-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+iframe {
+  width: 100%;
+  height: 450px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
